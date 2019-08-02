@@ -1,1 +1,2 @@
-server: 8910
+server:
+   port: 8910
